@@ -1,4 +1,4 @@
 # ForkHit
 My pet project (copy of KnifeHit game)
 
-[ForkHit.png]
+![game_image.png](ForkHit.png)
